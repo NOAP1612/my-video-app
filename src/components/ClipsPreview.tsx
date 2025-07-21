@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Play, Download, Share2, Edit3, Clock, TrendingUp, Check, X, Smartphone, Music, Type } from 'lucide-react';
 import { VideoClip } from '../App';
 

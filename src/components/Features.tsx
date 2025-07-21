@@ -1,4 +1,3 @@
-import React from 'react';
 import { Brain, Scissors, Smartphone, Type, Music, Zap, Clock, TrendingUp, Share2 } from 'lucide-react';
 
 export function Features() {

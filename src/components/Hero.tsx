@@ -1,4 +1,3 @@
-import React from 'react';
 import { Play, Sparkles, TrendingUp } from 'lucide-react';
 
 export function Hero() {

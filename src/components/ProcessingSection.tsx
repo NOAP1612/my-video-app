@@ -1,4 +1,3 @@
-import React from 'react';
 import { Brain, Scissors, Smartphone, Music, Type, Zap } from 'lucide-react';
 import { ProcessingStep } from '../App';
 
