@@ -1,0 +1,5 @@
+streamlit
+pydub
+matplotlib
+SpeechRecognition
+moviepy==1.0.3
